@@ -1,6 +1,6 @@
 module github.com/nabeelys/i11778-to-be-update
 
-go 1.17
+go 1.19
 
 require (
 	github.com/nabeelys/i11778-monorepo v1.0.0
