@@ -214,6 +214,8 @@ github.com/nabeelys/i11778-monorepo v1.0.0 h1:abOQ/Uqnf8olCYx86dj2hE9qp3lzyIy904
 github.com/nabeelys/i11778-monorepo v1.0.0/go.mod h1:gG8Vgnqj9GPuaxCCaAUJ2dZIQ66KyXowicZ97MC2UPw=
 github.com/nabeelys/i11778-monorepo/multiply v1.0.0 h1:6pHybwGL7L3ymkRtMQn/XXIn8u3PoFe1zhiy9MQ4mTQ=
 github.com/nabeelys/i11778-monorepo/multiply v1.0.0/go.mod h1:ncHBF35t9E4nE7OUctGpUxH9dRksW4kf4JM34yNCul8=
+github.com/nabeelys/i11778-monorepo/multiply v1.0.1 h1:bldXli5SpZKWvmCCrsPBqhWcb93/LkcaEELlDn26/nw=
+github.com/nabeelys/i11778-monorepo/multiply v1.0.1/go.mod h1:ncHBF35t9E4nE7OUctGpUxH9dRksW4kf4JM34yNCul8=
 github.com/onsi/ginkgo v0.0.0-20170829012221-11459a886d9c/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+WWjE=
 github.com/onsi/gomega v0.0.0-20170829124025-dcabb60a477c/go.mod h1:C1qb7wdrVGGVU+Z6iS04AVkA3Q65CEZX59MT0QO5uiA=
 github.com/pascaldekloe/goe v0.0.0-20180627143212-57f6aae5913c/go.mod h1:lzWF7FIEvWOWxwDKqyGYQf6ZUaNfKdP144TG7ZOy1lc=
