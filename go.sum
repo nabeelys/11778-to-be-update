@@ -212,6 +212,8 @@ github.com/monochromegane/go-gitignore v0.0.0-20200626010858-205db1a8cc00/go.mod
 github.com/munnerz/goautoneg v0.0.0-20120707110453-a547fc61f48d/go.mod h1:+n7T8mK8HuQTcFwEeznm/DIxMOiR9yIdICNftLE1DvQ=
 github.com/nabeelys/i11778-monorepo v1.0.0 h1:abOQ/Uqnf8olCYx86dj2hE9qp3lzyIy904FlqpegVaI=
 github.com/nabeelys/i11778-monorepo v1.0.0/go.mod h1:gG8Vgnqj9GPuaxCCaAUJ2dZIQ66KyXowicZ97MC2UPw=
+github.com/nabeelys/i11778-monorepo v1.1.0 h1:i8hH72OMIUOrVzOQJGtecqwLzoIVZKJeDRU5QOA8IEQ=
+github.com/nabeelys/i11778-monorepo v1.1.0/go.mod h1:gG8Vgnqj9GPuaxCCaAUJ2dZIQ66KyXowicZ97MC2UPw=
 github.com/nabeelys/i11778-monorepo/multiply v1.0.0 h1:6pHybwGL7L3ymkRtMQn/XXIn8u3PoFe1zhiy9MQ4mTQ=
 github.com/nabeelys/i11778-monorepo/multiply v1.0.0/go.mod h1:ncHBF35t9E4nE7OUctGpUxH9dRksW4kf4JM34yNCul8=
 github.com/onsi/ginkgo v0.0.0-20170829012221-11459a886d9c/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+WWjE=
